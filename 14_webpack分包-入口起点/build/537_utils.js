@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbabel_core_demo=self.webpackChunkbabel_core_demo||[]).push([[537],{857:function(n,o,e){function c(){console.log("bal")}e.d(o,{k:function(){return c}})},497:function(n,o,e){function c(){console.log("fool")}e.d(o,{b:function(){return c}})}}]);

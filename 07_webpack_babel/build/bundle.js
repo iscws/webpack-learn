@@ -1,0 +1,1 @@
+(()=>{console.log(7),console.log("hello whats up");var o=function(o){return o+3};console.log(o(3)),document.getElementById("btn").addEventListener("click",(function(){console.log(o(3))}))})();

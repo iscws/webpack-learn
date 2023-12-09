@@ -1,0 +1,1 @@
+(()=>{var o={352:o=>{console.log(7),console.log("hello whats up");var e=function(o){return o+3};console.log(e(3)),document.getElementById("btn").addEventListener("click",(function(){console.log(e(3))})),o.exports={logFn:e}}},e={};!function n(t){var r=e[t];if(void 0!==r)return r.exports;var l=e[t]={exports:{}};return o[t](l,l.exports,n),l.exports}(352)})();
